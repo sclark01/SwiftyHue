@@ -1,4 +1,4 @@
-github "Alamofire/Alamofire" "swift3"
+github "Alamofire/Alamofire" "1ac8359"
 github "hkellaway/Gloss" "81b1aa6"
 github "robbiehanson/CocoaAsyncSocket" ~> 7.4.3
 github "delba/Log" "ad3911f"
